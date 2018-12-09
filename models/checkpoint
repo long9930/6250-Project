@@ -1,0 +1,2 @@
+model_checkpoint_path: "Pneumothorax_model"
+all_model_checkpoint_paths: "Pneumothorax_model"
