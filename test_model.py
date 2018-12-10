@@ -7,7 +7,7 @@ import tensorflow as tf
 import os, random, time
 
 test_size = 1000 # number of test data points
-disease = "Cardiomegaly"  #  name of target disease
+disease = "Infiltration"  #  name of target disease
 metadata_filepath = "./data/Data_Entry_2017.csv"  # metadata file path
 test_result_filepath = "test_result.csv" # file to save test result 
 image_path = "./images"  # images directory
